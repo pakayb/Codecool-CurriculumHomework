@@ -9,13 +9,13 @@ Your task will be to help them to start their JAVA project, setup Docker contain
 - Learn how to setup Docker containers.
 - Understand how to run multiple Docker containers with Docker-compose.
 
-##Tasks
+## Tasks
 
 ### Where to start? :
 - Clone the [repository](https://github.com/pakayb/Codecool-CurriculumHomework)
 - Install [Docker](https://www.docker.com/get-started), if you haven't installed yet.
 
-####Task 1:
+#### Task 1:
 - Create a docker image from the given Dockerfile in the sql directory.
 - When you run this image it creates a Docker container with a postgres DB.
 (You can check, and modify the DB username and password in the Dockerfile, then you should rebuild the image.)
